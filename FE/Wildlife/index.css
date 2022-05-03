@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  width: 1440px;
+  margin: 0 auto;
+}
+
+header {
+  height: 780px;
+  background-image: url("./Assets/fox_background.jpg");
+  background-repeat: no-repeat;
+}
+
+main {
+  height: 1368px;
+  background-color: #cccccc;
+}
+
+footer {
+  height: 360px;
+  background-image: url("./Assets/Footer.jpg");
+  background-color: 0;
+}
